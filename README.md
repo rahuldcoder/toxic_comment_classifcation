@@ -6,11 +6,11 @@ Used Random forest to classify a given comment into six classes.
 The confusion matrix results are as follows:
 
 
-     |    False      |    True       |
-     | ------------- | ------------- |
-True |    43042      |   207         |
-     | ------------- | ------------- |
-False|       2703    |    1920       |    
+           |    False      |    True       |
+           | ------------- | ------------- |
+True       |    43042      |   207         |
+           | ------------- | ------------- |
+False      |       2703    |    1920       |    
 
 
 
